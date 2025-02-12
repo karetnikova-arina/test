@@ -5,17 +5,7 @@ build/
 # Local configuration file (sdk path, etc)
 local.properties
 
-# Log/OS Files
-*.log
 
-# Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
-*.apk
-output.json
-
-# IntelliJ
 *.iml
 .idea/
 misc.xml
